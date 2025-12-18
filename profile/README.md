@@ -7,7 +7,7 @@ This project is developed as a **graduation project**, with an emphasis on solid
 
 If you’re new here or feel unsure about where to start, you may find these resources helpful:
 
-- [Getting Started](LINK_HERE)
+- [Getting Started](https://vissionx.github.io/VisionX-Website/doc.html)
 - [Project Overview](LINK_HERE)
 
 For those interested in contributing, please review the project blueprints first:
