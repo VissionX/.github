@@ -4,7 +4,7 @@
 
 [![Mobile App](https://img.shields.io/badge/Mobile%20Version-Install-green?logo=android&logoColor=white)](https://vissionx.github.io/VisionX.x/install.html)
 ![GitHub stars](https://img.shields.io/github/stars/VissionX/VisionX?style=flat)
-[![Discord](https://img.shields.io/discord/SERVER_ID?label=Discord&logo=discord&logoColor=white)](https://discord.gg/INVITE_CODE)
+[![Discord](https://img.shields.io/discord/SERVER_ID?label=Discord&logo=discord&logoColor=white)](https://discord.gg/MAMWFfE7)
 [![X](https://img.shields.io/badge/X-Follow-000000?logo=x&logoColor=white)](https://x.com/USERNAME)
 ![Built with Python](https://img.shields.io/badge/Built%20With-Python-3776AB?logo=python&logoColor=white)
 
